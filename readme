@@ -9,4 +9,5 @@
 3.项目参考该实现以及当前项目中遇到问题及解决方案进行下一步优化：https://github.com/Asamiyaa?tab=stars
 4.文章借鉴:http://dockone.io/article/2896
        Kubernetes如何改变美团的云基础设施？https://tech.meituan.com/2020/08/13/openstack-to-kubernetes-in-meituan.html
-5.java操作k8s,manager ci cd 框架。插件化、配置化。这样就可以使开发者集中在代码开发中，无需关注k8s\manager...
+5.云原生：https://blog.csdn.net/alitech2017/article/details/104606956
+  java操作k8s,manager ci cd 框架。插件化、配置化。这样就可以使开发者集中在代码开发中，无需关注k8s\manager...
