@@ -7,3 +7,4 @@
 1.作为springcloud + k8s 探索完整的微服务devops实现
 2.使用DDD构建模型
 3.项目参考该实现以及当前项目中遇到问题及解决方案进行下一步优化：https://github.com/Asamiyaa?tab=stars
+4.文章借鉴:http://dockone.io/article/2896
