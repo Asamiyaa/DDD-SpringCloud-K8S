@@ -2,3 +2,7 @@
 2.intellij idea隐藏.iml和.idea等自动生成文件：https://blog.csdn.net/fanrenxiang/article/details/80533950
   同样隐藏*.idea / target
 3.启动类不可直接放到main 而是建一个新文件夹：https://www.cnblogs.com/evasean/p/9591223.html
+
+====================================================20200023=======================================================
+1.作为springcloud + k8s 探索完整的微服务devops实现
+2.使用DDD构建模型
