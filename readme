@@ -11,3 +11,11 @@
        Kubernetes如何改变美团的云基础设施？https://tech.meituan.com/2020/08/13/openstack-to-kubernetes-in-meituan.html
 5.云原生：https://blog.csdn.net/alitech2017/article/details/104606956
   java操作k8s,manager ci cd 框架。插件化、配置化。这样就可以使开发者集中在代码开发中，无需关注k8s\manager...
+
+  ######################
+1.修改mudule目录后发现pom报错
+    1.parent pom标签是父类标签、使用<packgine>pom 而不是默认的jar
+    2.子模块的子模块要以他的父父为父、而是父为父
+    3.无法启动报错，找不到主类
+        1.edit 启动类、可以添加jvm参数等
+        2.file -> invi...cache 重启解决
